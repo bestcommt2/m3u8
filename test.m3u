@@ -1,0 +1,303 @@
+#EXTM3U
+
+#EXTINF:-1,NBT 2
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chnbt/index.m3u8
+
+#EXTINF:-1,THAI PBS
+https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+
+#EXTINF:-1,ALTV 4
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+
+#EXTINF:-1,ch5
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch5hd/index.m3u8
+ 
+#EXTINF:-1,T SPORT 7
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtsport/index.m3u8
+
+#EXTINF:-1,TPTV
+https://cdn-edge.i-iptv.com/live3/91b1-ff25-f5ee-c27f-283a/chunklist_w1922821612.m3u8
+ 
+#EXTINF:-1,TNN 16
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtnn/index.m3u8 
+
+#EXTINF:-1,JKN 18
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/newtv/index.m3u8
+
+#EXTINF:-1,NATION 22
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chnation/index.m3u8
+
+#EXTINF:-1,WORKPOINT
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chworkpoint/index.m3u8 
+
+#EXTINF:-1,TRUE 4 U
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtrue4u/index.m3u8 
+
+#EXTINF:-1,GMM 25
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chgmm/index.m3u8 
+
+#EXTINF:-1,CH 8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch8/index.m3u8 
+
+
+#EXTINF:-1,MONO 29 1080P
+https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_1080P/mono29hls_1080TH.stream/playlist.m3u8
+#EXTINF:-1,MONO 29 720P
+https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_720P/mono29hls_720TH.stream/chunklist_w518596907.m3u8
+#EXTINF:-1,MONO 29 480P
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chmono29/index.m3u8 
+ 
+#EXTINF:-1,MCOT 30
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chmcothd/index.m3u8
+
+#EXTINF:-1,ONE 31
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chonehd/index.m3u8 
+
+#EXTINF:-1,ไทยรัฐทีวี32
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chthairath/index.m3u8 
+
+#EXTINF:-1,CH 3
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch3hd/index.m3u8
+
+#EXTINF:-1,AMARIN 34
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chamarin/index.m3u8  
+
+#EXTINF:-1,CH 7
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch7hd/index.m3u8
+
+#EXTINF:-1,PPTV
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chpptvhd/index.m3u8 
+#EXTINF:-1,หนองคายทีวี
+http://stream.nktv.live:9898/live/nktv.stream/playlist.m3u8
+#EXTINF:-1,medianews
+https://live1.thaitvstream.com/play/medianews/index.m3u8
+#EXTINF:-1,gochannel
+https://live2.thaitvstream.com/play/gochannel/index.m3u8
+#EXTINF:-1,สยามนิวส์ทีวี
+https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
+#EXTINF:-1,เชียงรายทีวี
+https://live.thaitvstream.com/play/chiangrai/index.m3u8
+
+#EXTINF:-1,MOVIE 1ไทย
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC1/index.m3u8
+#EXTINF:-1,MOVIE 1 EN
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC11/index.m3u8
+#EXTINF:-1,MOVIE 2
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC53/index.m3u8
+#EXTINF:-1,MOVIE 3
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC2/index.m3u8
+ 
+#EXTINF:-1,7FLIX
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC5/index.m3u8
+
+
+ 
+#EXTINF:-1,CHANNEL 8
+http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
+#EXTINF:-1,B4U MOVIES
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC23/index.m3u8
+#EXTINF:-1,COOL CHANNEL
+https://live-iptv.cool-channel.com/cool/live-manifest.m3u8
+ 
+#EXTINF:-1,BOX FILM
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC52/index.m3u8
+
+#EXTINF:-1,LOTUS MACAU
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC41/index.m3u8
+ 
+#EXTINF:-1,XING KONG
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC13/index.m3u8
+ 
+#EXTINF:-1,CCTV 4 
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC33/index.m3u8
+ 
+#EXTINF:-1,TVB ไทย
+https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/chunklist_w1167255818.m3u8
+ 
+
+#EXTINF:-1,IS TV
+https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8
+ 
+#EXTINF:-1,THRILL
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC26/index.m3u8
+ 
+#EXTINF:-1,สำรวจ
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC27/index.m3u8
+ 
+#EXTINF:-1,FAST FUN BOX
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC6/index.m3u8
+ 
+#EXTINF:-1,DIZI BOX
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC31/index.m3u8
+ 
+ #EXTINF:-1,ZOOMOO
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC38/index.m3u8
+ 
+#EXTINF:-1,BOOMERANG
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chboomberang/index.m3u8
+ 
+#EXTINF:-1,TRT COCUK
+https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
+ 
+#EXTINF:-1,ANIME TV
+https://stmv1.srvif.com/animetv/animetv/chunklist_w1054002732.m3u8
+#EXTINF:-1,สำรวจโลก
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC8/index.m3u8
+ 
+#EXTINF:-1,MYSCI
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC37/index.m3u8
+ 
+#EXTINF:-1,NATURE TIME
+https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
+ 
+#EXTINF:-1,JAROEN CABLE TV 37
+http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
+ 
+#EXTINF:-1,CGTN DOCUMENT
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
+ 
+#EXTINF:-1,CGTN 
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC51/index.m3u8
+ 
+#EXTINF:-1,TVE
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC4/index.m3u8
+ 
+#EXTINF:-1,ENGLISH CLUB
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC21/index.m3u8
+
+#EXTINF:-1 group-title="ช่องการ์ตูน" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNbxe5sIiySX5-PgYL5nGo334cNGlHE8D4EQ&usqp=CAU" ,BabyBus - Kids Songs and Cartoons
+https://livestream.zazerconer.workers.dev/channel/UCpYye8D5fFMUPf9nSfgd4bA.m3u8
+#EXTINF:-1 group-title="ช่องการ์ตูน" tvg-logo="https://i.ibb.co/PTsGKkL/image.png" ,โรโบคาร์โพลีทีวี
+https://livestream.zazerconer.workers.dev/channel/UCvKicVPiOrIuZdEYmxuRQug.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" tvg-name="" tvg-id="3BB-LOVE Nature 4K" group-title="3BBTV",Love Nature 4K
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7d0b58f6ba324ad5bf123a8098e3ad2f:45906f0ddd1e4c28ba9e9dc138d75da8
+https://cnt2-streamer19.cdn.3bbtv.com:8443/3bb/live/501/501.mpd
+#EXTINF:-1 tvg-chno="2" tvg-id="NBT2.th" tvg-name="NBT HD" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png" group-title="3BBTV", NBT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_typ=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ca20a93cf8e3421dafbd5bdb1990081b:86ae86a7391c481ea93eecdb740f0a14
+#https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/2/2.mpd
+#EXTINF:-1 tvg-chno="3" tvg-id="ThaiPBS3.th" tvg-name="THAI PBS HD" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png" group-title="3BBTV",  THAI PBS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d4426a505f64382a9841155d721cee6:0f4770219ccb4be5836a7517057e51c3
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/3/3.mpd
+#EXTINF:-1 tvg-chno="5" tvg-id="TV5HD.th" tvg-name="TV5 HD" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon//ch5new.logo.png" group-title="3BBTV", TV5 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=87db4361f7894655a4656e9c8b935a02:b025a4b950df41158a87cfc8d6f2ac34
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/5/5.mpd
+#EXTINF:-1 group-title="3BBTV" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/T-SPorts_7_Final.png",TSPORTS 7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6187523f92b9475bb5b192f70cef1342:5119311f482144d58dacabc5bc1fa4ba
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/7/7.mpd
+#EXTINF:-1 tvg-id="3BBAsian.th" tvg-name="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png" group-title="3BBTV",TRUE4U
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4eabd5db684248a98c5124fbb0687bde:d2f7a6f45b3c48678ca69c91d7823c25
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/24/24.mpd
+#EXTINF:-1 tvg-chno="36" tvg-id="PPTVHD36.th" tvg-name="PPTV HD" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png" group-title="3BBTV", PPTV HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0aeffa7753674e77b99443fac7757b8a:b8c8a462008a40aa91823e0b02e8dd31
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
+#EXTINF:-1 tvg-id="3BBAsian.th" tvg-name="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//3BBAsian_new.png" group-title="3BBTV",3BB Asian
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dac6cbd9d17a451bb76386f52469e0e9:2e2ac52cadf843459915eaa1a9b95e48
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/101/101.mpd
+#EXTINF:-0 group-title="3BBTV" tvg-id="hbo.th" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png", HBO TH
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9c5735afb4fd402580360aed8364469c:128d55d9ac2b47ad85f86b5d08320179
+https://cnt1-streamer9.cdn.3bbtv.com:8443/3bb/live/103/103.mpd
+#EXTINF:-0 group-title="3BBTV" tvg-id="hbosignature.th" tvg-logo="https://i.postimg.cc/rw9GnR69/hbos.png", HBO Signature
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0db89bae851440a5994f5893ad480494:d88ef77eaedf4451a65be2e0bf6eabde
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/104/104.mpd
+#EXTINF:-0 group-title="3BBTV" tvg-id="HBOHits.th" tvg-logo="https://i.postimg.cc/tJhns8pz/hitsth.png", HBO Hits
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7c04b8e7aa524afea879b2ed1aef8242:91e72b75fcb94c3bb36cceb741afd621
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/105/105.mpd
+#EXTINF:-0 group-title="3BBTV" tvg-id="HBOFamily.th" tvg-logo="https://i.postimg.cc/x8rbT9DC/lfdvs017.png",HBO FAMILY
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=07b138f30ad3441ca5a2f476e550af25:826ee4deef4b45cfafd5f79a591b15c6
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
+#EXTINF:-1 group-title="3BBTV" tvg-id="cinemaxasia.sg" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png",CINEMAX 3BBTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f48caba466394e93b50780f21798787a:9a074a10db4342e7937076b3e52f6029
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
+#EXTINF:-1 tvg-id="MONOPLUS.th" tvg-name="MonoPlus" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Plus_new.png" group-title="3BBTV", MONO29 PLUS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=072eeb02f6744f838fcc8f0ef36b312e:b797c12f2dd64728aae23fd3c8ef275c
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/109/109.mpd
+#EXTINF:-1 tvg-id="3BBSportone.th" tvg-name="3BB Sport one" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//3BBsports1_new.png" group-title="3BBTV",3BBSportOne
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=678bbba596584ad895d2923fb0255e82:c55471086c824112b217743a31abdf8f
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/401/401.mpd
+
+#EXTINF:-1,Astrosports 1
+http://iptv12k.com:35461/live/test163/123456011/13552.m3u8
+#EXTINF:-1,Astrosports 2
+http://iptv12k.com:35461/live/test163/123456011/13551.m3u8
+#EXTINF:-1,Astrosports 3
+http://iptv12k.com:35461/live/test163/123456011/13550.m3u8
+#EXTINF:-1,Astrosports 4
+http://iptv12k.com:35461/live/test163/123456011/13549.m3u8
+#EXTINF:-1,wwe
+http://iptv12k.com:35461/live/test163/123456011/13546.m3u8
+#EXTINF:-1,Eurosport HD 
+http://iptv12k.com:35461/live/test163/123456011/13545.m3u8
+#EXTINF:-1,HGTV HD 
+http://iptv12k.com:35461/live/test163/123456011/13544.m3u8
+#EXTINF:-1,TLC HD my2
+http://iptv12k.com:35461/live/test163/123456011/13542.m3u8
+#EXTINF:-1,Asia Food Network my2
+http://iptv12k.com:35461/live/test163/123456011/13541.m3u8
+#EXTINF:-1,,E! HD my2
+http://iptv12k.com:35461/live/test163/123456011/13540.m3u8
+#EXTINF:-1,DMAX HD my2
+http://iptv12k.com:35461/live/test163/123456011/13539.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Travel Channel HD my2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Travel_Channel_Logo.png" group-title="Malaysia(MY2)",Travel Channel HD my2
+http://iptv12k.com:35461/live/test163/123456011/13538.m3u8
+#EXTINF:-1,Crime Investigation my2
+http://iptv12k.com:35461/live/test163/123456011/13537.m3u8
+#EXTINF:-1,Animal Planet HD my2
+http://iptv12k.com:35461/live/test163/123456011/13536.m3u8
+#EXTINF:-1,NatGeo HD 
+http://iptv12k.com:35461/live/test163/123456011/13535.m3u8
+#EXTINF:-1,NatGeo Wild HD my2
+http://iptv12k.com:35461/live/test163/123456011/13534.m3u8
+#EXTINF:-1,Discovery Science HD my2
+http://iptv12k.com:35461/live/test163/123456011/13532.m3u8
+#EXTINF:-1,Discovery HD my2
+http://iptv12k.com:35461/live/test163/123456011/13531.m3u8
+#EXTINF:-1,Disney XD HD my2
+http://iptv12k.com:35461/live/test163/123456011/13530.m3u8
+#EXTINF:-1,BBC Lifestyle my my2
+http://iptv12k.com:35461/live/test163/123456011/13529.m3u8
+#EXTINF:-1,BBC Earth HD my my2
+http://iptv12k.com:35461/live/test163/123456011/13528.m3u8
+#EXTINF:-1,BBC News HD my2
+http://iptv12k.com:35461/live/test163/123456011/13527.m3u8
+#EXTINF:-1,DW HD my2
+http://iptv12k.com:35461/live/test163/123456011/13526.m3u8
+#EXTINF:-1,Love Nature HD my2
+http://iptv12k.com:35461/live/test163/123456011/13483.m3u8
+#EXTINF:-1,Nick Jr my2
+http://iptv12k.com:35461/live/test163/123456011/13482.m3u8
+#EXTINF:-1,Nickelodeon HD my2
+http://iptv12k.com:35461/live/test163/123456011/13480.m3u8
+#EXTINF:-1,Baby First my2
+http://iptv12k.com:35461/live/test163/123456011/13479.m3u8
+#EXTINF:-1,Cbeebies my2
+http://iptv12k.com:35461/live/test163/123456011/13478.m3u8
+#EXTINF:-1,Boomerang HD my2
+http://iptv12k.com:35461/live/test163/123456011/13477.m3u8
+#EXTINF:-1,AXN HD TW my2
+http://iptv12k.com:35461/live/test163/123456011/13472.m3u8
+#EXTINF:-1,AXN HD my2
+http://iptv12k.com:35461/live/test163/123456011/13471.m3u8
+#EXTINF:-1,CINEMAX HD my2
+http://iptv12k.com:35461/live/test163/123456011/13470.m3u8
+#EXTINF:-1,Cinemax HD my2
+http://iptv12k.com:35461/live/test163/123456011/13469.m3u8
