@@ -1,0 +1,6 @@
+#EXTINF:-1 group-logo="https://3bbtv.co.th/wp-content/uploads/2020/08/Logo-3BBTV-500x500pix.png" 
+#EXTINF:-1 group-title="3BBGIGATV" tvg-id="CINEMAX.th" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/Cinemax.png",CINEMAX
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f48caba466394e93b50780f21798787a:9a074a10db4342e7937076b3e52f6029
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
