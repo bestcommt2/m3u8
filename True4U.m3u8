@@ -1,6 +1,0 @@
-#EXTINF:-1 tvg-id="True4U.th" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/24.png" group-title="3BBGIGATV", True4U
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4eabd5db684248a98c5124fbb0687bde:d2f7a6f45b3c48678ca69c91d7823c25
-https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/24/24.mpd
